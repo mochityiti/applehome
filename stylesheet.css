@@ -1,0 +1,323 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration:none;
+    font-family: "SF Pro JP","SF Pro Display","SF Pro Icons","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ","Meiryo","ＭＳ Ｐゴシック","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+html ul {
+    margin:0;
+    padding:0;
+}
+
+html li {
+    margin:0;
+    padding:0;
+}
+
+body li {
+     list-style:none;
+
+}
+
+.head {
+    background-color:black;
+    height:44px;
+    position: fixed;
+    z-index:30;
+}
+
+.product {
+    margin: 0px 205px;
+}
+
+.product li {
+    float:left;
+    padding:12px 30px;
+    color:white;
+    font-size:14px;
+    transition: 0.5s;
+}
+
+.product a {
+    color:white;
+}
+
+.product li:hover {
+    color:#808080;
+}
+
+.sitadorier {
+    padding:70px 0px;
+    
+}
+
+.sitadori {
+    text-align: center;
+    margin:0px 80px;
+}
+
+.s1 {
+    font-size:28px;
+    margin:25px 80px 0px 80px;
+}
+
+.s2 {
+    font-size:28px;
+    margin:0px 80px; 
+}
+
+.surl {
+    display:block;
+    margin-top:10px;
+    color:#0070c9;
+    font-size: 19px;
+}
+
+.xrer {
+    margin:50px 0px 20px 0px;
+}
+
+.xr {
+    text-align: center;
+}
+
+.xr h1 {
+    display:inline-block;
+}
+
+.xr a {
+    display:inline-block;
+    color:#0070c9;
+    margin-top:10px;
+}
+
+.xrurl1 {
+    margin-right:28px;
+}
+
+
+.logoxr {
+    height:30px;
+    position:relative;
+    top:3px;
+}
+
+.xser {
+    margin:0px 0px 40px 0px;
+}
+
+.xs {
+    text-align: center;
+
+}
+
+.xs h1 {
+    display:inline;
+}
+
+.xs a {
+    display:inline-block;
+    color:#0070c9;
+    margin-top:10px;
+}
+
+.xsurl1 {
+    margin-right:28px;
+}
+
+.logoxs {
+    height:30px;
+    position:relative;
+    top:3px;
+}
+
+.watch {
+    text-align: center;
+}
+
+.watch h1 {
+    display:inline-block;
+    margin:0px 20px 0px 0px;
+    font-size:40px;
+}
+
+.watch h2 {
+    color:#CC0000;
+    font-size:18px;
+    letter-spacing:2px;
+}
+
+.watch p {
+    font-size:20px;
+    margin-top:10px;
+    font-weight: bolder;
+}
+
+.watch a {
+    display:inline-block;
+    color:#0070c9;
+    margin-top:10px; 
+}
+
+.watchulr1 {
+    margin-right:28px;
+}
+
+.logokuro {
+    height:50px;
+    position:relative;
+    top:3px;
+}
+
+.WATCH {
+    margin-top:10px;
+    width:40%;
+}
+
+.niko div {
+    display:inline-block;
+}
+
+.musicpng {
+    margin-bottom:5px;
+}
+
+.footer {
+    margin:0px 180.508px;
+
+}
+
+.footer1 div {
+    border-bottom:1px solid #808080;
+}
+
+.foot1  {
+    margin:10px 0px 10px 0px;
+}
+
+.foot1 p {
+    font-size:10px;
+    text-align:left;
+}
+
+.tyui {
+    margin:15px 0px;
+}
+
+.footer2 {
+    border-bottom:1px solid #808080;
+}
+
+.foot2 ul {
+    float: left;
+}
+
+.set1 {
+    float:left;
+    margin:0px 80px 0px 0px;
+}
+
+.set2 {
+    float:left;
+    margin:0px 80px 0px 0px;
+}
+
+.set3 {
+    float:left;
+    margin:0px 80px 0px 0px;
+}
+
+.set4 {
+    float:left;
+    margin:0px 80px 0px 0px;
+}
+
+.foot2 li {
+    font-size:10px;
+    margin-bottom:5px;
+}
+
+.ido {
+    padding-bottom:15px;
+}
+
+.foot2 p {
+    font-size:10px;
+    display: inline-block;
+    margin-top:30px;
+}
+
+.foot2 span {
+    font-weight:bolder;
+}
+
+.laster  {
+    font-size:10px;
+    float:left;
+}
+
+.last {
+    float:right;
+    margin:0px 0px 80px 0px;
+}
+
+.last p {
+    display:inline-block;
+    margin-right:20px;
+}
+
+.last ul {
+    display:inline-block;
+}
+
+.a {
+    float:left;
+    position: relative;
+    top:5px;
+    margin-right:12px;
+    padding-right:12px;
+    border-right:0.5px solid #808080;
+}
+
+.b {
+    float:left;
+    position: relative;
+    top:5px;
+    margin-right:12px;
+    padding-right:12px;
+    border-right:0.5px solid #808080;
+}
+
+.c {
+    float:left;
+    position: relative;
+    top:5px;
+    margin-right:12px;
+    padding-right:12px;
+    border-right:0.5px solid #808080;
+}
+
+.d {
+    float:left;
+    position: relative;
+    top:5px;
+    margin-right:12px;
+    padding-right:12px;
+    border-right:0.5px solid #808080;
+}
+
+.t {
+
+    float:left;
+    position: relative;
+    top:5px;
+    margin-right:12px;
+    padding-right:12px;
+}
+
+.japan {
+    width:4%;
+    position: relative;
+    top:10px;
+}
